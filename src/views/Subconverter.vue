@@ -210,7 +210,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "http://dingyue.mo-feng.buzz:25000/sub?" }],
+        backendOptions: [{ value: "http://api.mo-feng.buzz:25000/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
